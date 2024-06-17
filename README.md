@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Science**
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/Manjula/OneDrive/Desktop/porthtml.html](file:///C:/Users/Manjula/OneDrive/Desktop/porthtml.html)
+- 👨‍💻 All of my projects are available at [https://github.com/manjulabhukyaa/Portfolio_25)
 
 - 📫 How to reach me **bhukyamamatha9392@gmail.com**
 
